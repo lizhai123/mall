@@ -1,1 +1,19 @@
-# mall
+*.class
+#package file
+*.war
+*.ear
+#maven ignore
+target/
+#idea ignore
+*.idea
+/idea/
+*.iml
+#temp file
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+#system ignore
+.DS_Store
+Thumbs.db# mall
